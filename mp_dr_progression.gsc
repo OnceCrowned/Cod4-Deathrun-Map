@@ -9,11 +9,8 @@
 Map by pain.
 Add me on steam/discord if you haven't
 Have fun reading stuff
-Thanks jwofles for listening to all my stupid questions
 */
 
-// My maps are shit idk why you're looking at my gsc
-// Feel free to take anything you need
 
 
 // Bouncing platform script for any peeps that need it (originally from sheep wizard)
